@@ -1,7 +1,5 @@
-# Data_Analytics_and_Engineering_Portfolio
-This repository showcases assignments and projects completed during the LSE Data Analytics program, highlighting skills in Python, SQL, Tableau, and data engineering.
 # LSE Data Analytics Portfolio
-This repository showcases assignments and projects completed during the LSE Data Analytics program. Each module demonstrates key skills in data analysis, manipulation, and visualization.
+This repository showcases assignments and projects completed during the LSE Data Analytics program. Each module demonstrates key skills in data analysis, manipulation, and visualisation.
 
 ## Skills Highlighted
 - Data wrangling and cleaning
