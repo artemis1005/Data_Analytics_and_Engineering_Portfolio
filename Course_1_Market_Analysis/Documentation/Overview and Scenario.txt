@@ -1,0 +1,28 @@
+Overview:
+In this assignment, you’ll need to submit a dashboard, a report, and a recording of yourself presenting your analysis with your initial insights. Your report and presentation should detail your process and a summary of your initial findings and insights. To complete the assignment you will leverage Excel, SQL, and Tableau, you will analyse a data set to identify insights based on a specific organisational context.
+
+At the end of Module 6, you’ll submit your assignment which accounts for 90% of your final grade. 
+
+As part of this assignment, you need to save and submit three files:
+
+- A Tableau dashboard (as a TWBX file) – You will assess stakeholder requirements and adoption principles to create a dashboard to communicate insights to your audience.
+- A recording of your presentation (as a .mp4 file)
+- A PDF report of 1000 words (+/- 10%) indicating your approach, thought process, results, conclusions, and any recommendations you would like to make (as a .pdf file.)
+
+Scenario:
+You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour. 
+
+In particular, 2Market wants to understand:
+
+- The demographics of their customers 
+- Which advertising channels seem to be the most effective
+- Which products seem to sell the best and if that varies based on demographic
+
+To support 2Market, you’ll:
+
+- Complete your analysis and create a dashboard: You’ll analyse data and create a dashboard that includes key metrics to inform decision-making (such as the average revenue from each marketing channel.)
+- Complete a report: You’ll write a report explaining your approach and any insights discovered.
+- Complete your presentation: You’ll communicate insights to stakeholders in a recorded presentation.
+
+
+

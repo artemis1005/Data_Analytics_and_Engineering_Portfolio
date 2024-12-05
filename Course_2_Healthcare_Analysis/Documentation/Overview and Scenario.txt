@@ -1,0 +1,46 @@
+Overview:
+You’ll submit your assignment, which accounts for 90% of your final grade, after the end of Module 6. The assignment requires that you upload your documents to Canvas. 
+
+At the end of each module, the assignment activities prompt you to complete portions of the assignment based on the knowledge you acquire during the module. You’ll be guided in terms of the basic expectations of elements to analyse and the typical steps to do so. You’ll also be prompted to document your findings, observations, and suggestions after completing these activities. Not all of these prompts are required in the final submission. 
+
+It is up to you, the data analyst, to determine how you will present your analysis and recommendations to the respective stakeholders. Technical users will need to validate and potentially reproduce your results while business users will want to make decisions based on insights gained from the data. You’ll submit your code (Jupyter Notebook), but you will also need to create two artefacts tailored to these two types of stakeholders (a technical report and video presentation). Use the human skills you have been developing to craft a compelling story around the scenario, the analysis, and the presentation of the output. Before you submit your final assignment, ensure that you have:
+
+- revisited the work you completed for earlier assignment activities and you’ve made changes as your skills expanded (e.g. at the end of Module 6, you might go back to the assignment in Module 2 and employ the visualisation skills you acquired in Module 4)
+- cleaned up your working document to adhere to good practices and added comments to the code and observations as markdown cells where appropriate
+- uploaded all the required files and used the correct naming conventions. 
+
+The submission will comprise several files:
+
+- A Jupyter Notebook (as an IPYNB file) in which you demonstrate your code and note your observations and justifications using Markdown. Use the following naming convention for your file: LastName_FirstName_DA201_Assignment_Notebook.ipynb. 
+- A PDF technical report (as a PDF file) of 1,000 words (+/- 10%) indicating your approach, thought process, results, and conclusions for your analysis. This report should be aimed at a technical target audience with the primary function of validating your results. Use the following naming convention: LastName_FirstName_DA201_Assignment_Report.pdf.
+- A video presentation (as an MP4 file) of 10 minutes (+/-10%) aimed at typical business stakeholders as a target audience where you present a data-driven story to convey your insights and any recommendations you would like to make. Use the following naming convention for your file: LastName_FirstName_DA201_Assignment_Presentation.mp4.
+- Note: Your video file should be no larger than 100mb (free video compression services are available online). Alternatively, you can share a link to your presentation on a private video hosting service such as Vimeo or YouTube (ensure your videos are set to private to ensure that they are not publicly visible).
+- (Optional) A copy of the slides used in your video presentation as a PDF or Microsoft PowerPoint.
+
+Scenario:
+You are part of a team of data analysts that was contracted by the National Health Services (NHS), a publicly funded healthcare system in England. The team has been provided with internal and external data and a number of high-level business questions  concerning the utilisation of services, missed appointments, and the potential value of using external data sources such as Twitter (now rebranded as X) . Your role is to refine the business questions to actionable analytic questions based on your review of the available data. You will then plan and perform the exploratory data analysis and present the insights to the respective stakeholders.
+
+The NHS must expand its infrastructure and resources to match its increasing population capacity. For this, it needs to budget correctly. When deciding on budget allotment, the NHS must understand the utilisation trends of each component in its network.
+
+Some stakeholders feel that the NHS’s capacity should be increased while others feel that, based on current trends in utilisation, the current capacity is adequate and that efforts to make better use of existing infrastructure and resources are sufficient. Your team has been tasked to explore the available data and offer suggestions and recommendations based on your observations.
+
+Hint:
+The NHS incurs significant, potentially avoidable, costs when patients miss general practitioner (GP) appointments. The reasons for missed appointments need to be better understood as explained by The British Medical Association (BMA) chair Professor Philip Banfield:
+
+Therefore, reducing or eliminating missed appointments would be beneficial financially as well as socially. The government needs a data-informed approach to decide how best to handle this problem. At this stage of the project, the two main questions posed by the NHS are:
+
+1. Has there been adequate staff and capacity in the networks?
+2. What was the actual utilisation of resources?
+
+As you are new to Python, your role on the team is to get started with data exploration, data wrangling, creating visualisations, and identifying possible trends in the data sets. For this, you’ll investigate several questions:
+
+- What is the number of locations, service settings, context types, national categories, and appointment statuses in the data sets?
+- What is the date range of the provided data sets, and which service settings reported the most appointments for a specific period?
+- What is the number of appointments and records per month?
+- What monthly and seasonal trends are evident, based on the number of appointments for service settings, context types, and national categories?
+- What are the top trending hashtags (#) on the supplied Twitter data set and how can this be used in the decision-making process?
+- Was there adequate staff and capacity in the networks?
+- What was the actual utilisation of resources?
+- What insights can be gained by looking at missed appointments?
+- What are the most important patterns visible in the data relating to the use case? 
+- What insights can be gained from the data, and what recommendations can be made to the NHS based on these insights?
