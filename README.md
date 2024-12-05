@@ -4,7 +4,7 @@ This repository showcases assignments and projects completed during the LSE Data
 ## Skills Highlighted
 - Data wrangling and cleaning
 - Statistical analysis
-- Data visualization with Tableau and Python
+- Data visualisation with Tableau and Python
 - Data storytelling and business communication
 
 ## Table of Contents
