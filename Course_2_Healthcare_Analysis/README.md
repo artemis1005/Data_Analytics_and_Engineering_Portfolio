@@ -27,13 +27,11 @@ This project analyses healthcare data to identify patterns in appointment durati
   - `Srivastava_Tuhina_DA201_Assignment_Report.docx`: Comprehensive report summarising findings.
   - `Feedback_Course_2.pdf`: Feedback received for the assignment.
   - `Srivastava_Tuhina_DA201_Assignment_Presentation.pptx`: Presentation of the project findings.
-- **Media**:
-  - `Tuhina_Video.mp4`: Video presentation of the project.
 
 ## Tools Used
 - Python (pandas, numpy, matplotlib, seaborn, nltk)
 - Microsoft Excel (for initial data exploration)
-- Microsoft PowerPoint
+- Jupyter Notebook
 
 ## Key Insights
 - Identified bottlenecks in regional appointment scheduling.
