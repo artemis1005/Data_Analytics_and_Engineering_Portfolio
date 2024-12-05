@@ -13,7 +13,7 @@ This project involves analysing market trends and creating an interactive Tablea
 
 ## Files
 - **Data**:
-  - `Assignment_Dataset_Course_1.zip`: The dataset used for the analysis.
+  - `Assignment_Dataset_Course_1`: The dataset used for the analysis.
 - **Analysis**:
   - `Market_Analysis.twbx`: Tableau workbook containing the interactive dashboard.
   - `Description_of_Dashboard.txt`: Describes the functionality of the dashboard.
