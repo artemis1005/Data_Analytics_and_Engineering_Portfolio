@@ -9,8 +9,7 @@ This project involves analysing market trends and creating an interactive Tablea
 
 ## Key Outputs
 1. An interactive Tableau dashboard showcasing market trends and KPIs.
-2. A detailed report summarizing insights and recommendations.
-3. A video presentation explaining the analysis and findings.
+2. A detailed report summarising insights and recommendations.
 
 ## Files
 - **Data**:
@@ -23,15 +22,13 @@ This project involves analysing market trends and creating an interactive Tablea
   - `Assignment_Report.pdf`: Comprehensive report summarising the findings.
   - `Feedback_Course_1.pdf`: Feedback received for the assignment.
   - `Presentation.pptx`: PowerPoint presentation explaining the analysis.
-- **Media**:
-  - `Presentation.mp4`: Video presentation for the project.
 
 ## Tools Used
 - Tableau
 - Python (for data preprocessing)
-- Microsoft PowerPoint
+- Jupyter Notebook
 
 ## Key Insights
 - The dashboard enables stakeholders to explore sales trends by region, product category, and time.
-- Recommendations were made to optimize marketing strategies and inventory management.
+- Recommendations were made to optimise marketing strategies and inventory management.
 
