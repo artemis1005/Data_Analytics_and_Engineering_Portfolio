@@ -1,0 +1,5 @@
+Scenario:
+
+In this module, you were introduced to web scraping, accessing APIs, comparing the analysis of a data set with Excel, pgAdmin/PostgreSQL, and Python, as well as querying the Chinook database (PostgreSQL) with Python from the Jupyter Notebook. Share your observations regarding the advantages and disadvantages of the different data sources (web sources, APIs, and databases) and the different tools to access (Microsoft Excel, database, and Python). How could these be useful in your analytic workflow, and how would they impact the business?
+
+You might learn something completely new in the process, or you may clear up an issue for one of your peers.

@@ -1,0 +1,63 @@
+Reviewing the code
+
+1. Copy and paste the following code block into a new Jupyter Notebook.
+
+Code:
+# Program To Make Simple Calculator
+# This function adds 2numbers
+def add( x, y ):
+    return x + y
+
+#This function subtracts  2numbers
+def subtract(x, y):
+    return x - y
+
+
+
+       #This function multipliers 2numbers
+def multiply(x, y):
+   return x * y
+
+##This function divides  2numbers #
+def divide(x, y):
+   return x / y
+
+print ( "Select operation.")
+print ( "1.Add")
+print ( "2.Subtract")
+print ( "3.Multiply")
+print ( "4.Divide")
+
+while True:
+   
+   choice = input  ("Enter choice(1/2/3/4): ")# Take input from the  user
+
+   # Check if choice is 1 of the four options by completing the following code in the IDE of your choice or notebook
+   if choice in ('1', '2', '3', '4'):
+      Num1   = float(input("Enter first number: "))
+      Num2   = float(input("Enter second number: "))
+
+       if CHOICE == '1':
+           print(Num1, "+", Num2, "=", add( Num1, Num2 ))
+
+       elif CHOICE == '2':
+           print (Num1, "-", Num2, "=", subtract( Num1, Num2 ))
+
+       elif CHOICE == '3':
+           print (Num1, "*", Num2, "=", multiply( Num1, Num2 ))
+
+       elif CHOICE == '4':
+           print (Num1, "/", Num2, "=", divide( Num1, Num2 ))
+       break
+   else:
+
+       Print( "Invalid Input" )#this prints the invalid input....
+ 
+
+2. Evaluate the provided block of code. (You’re not expected to know what this code does or what the output should be.)
+
+3. Use in-line Python comments to mark all instances that DO NOT follow the PEP 8 guideline recommendations.
+
+4. Comments on some ways to address these issues.
+
+5. Rewrite the code block following PEP 8 guidelines.

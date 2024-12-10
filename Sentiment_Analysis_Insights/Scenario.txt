@@ -1,0 +1,12 @@
+Scenario:
+
+You have now completed your analysis of the sentiment towards ChatGPT for the global company FutureProof. Remember that you were asked to research the sentiment towards ChatGPT on YouTube because the marketing manager is considering using ChatGPT to generate content, with the aim of enhancing the brand's social media presence on YouTube and other social media platforms. The campaign will require the creation of engaging social media content, scheduled updates to social media channels, and moderating and responding to comments. However, the CEO has reservations about using ChatGPT.
+
+Objective:
+
+In this peer review, you'll submit a recorded presentation of a summary of your sentiment analysis findings for FutureProof. The short recording should be presented as if it were for the marketing manager and CEO of FutureProof. Consider the following questions to compile the summary of your findings before you record your presentation:
+
+What did you find out about the sentiment (on YouTube) towards ChatGPT?
+Did you go deeper with your analysis than the practical activity suggested?
+What questions did you ask of the data?
+What recommendations can you make for marketing decision-making based on what you've learned from your sentiment analysis?

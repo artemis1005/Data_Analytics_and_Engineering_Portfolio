@@ -1,0 +1,13 @@
+Scenario:
+
+You are a data analyst at an insurance company that provides coverage for various retail businesses. One of your clients, Mr Smith, owns a general merchandise shop, and the company needs to reevaluate its current policy due to a recent surge in fire-related incidents in retail stores. The insurance company wants to understand whether Mr Smith's shop carries any items that could be potentially fire-hazardous to assess the potential risks better.
+
+Making use of the products.csv file, answer these three questions:
+
+How many products contain the word Fire in their description?
+How many products contain the word candle in their description?
+How many products contain the word matches in their description?
+
+Objective:
+
+Compile a best-practices document that showcases how you could write code to answer the previous three questions.
