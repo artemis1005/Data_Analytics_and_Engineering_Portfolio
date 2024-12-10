@@ -1,4 +1,4 @@
-# Sentiment Analysis Insights
+# Sentiment Analysis
 
 ## Overview
 This project presents an analysis of sentiment towards **ChatGPT** as observed on YouTube. The analysis was conducted for the global company **FutureProof** to support their marketing manager in deciding whether to integrate ChatGPT into their social media strategy. The insights gathered aim to address both the potential benefits and the reservations expressed by FutureProof’s CEO.
