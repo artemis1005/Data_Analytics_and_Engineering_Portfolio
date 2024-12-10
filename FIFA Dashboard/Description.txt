@@ -1,0 +1,20 @@
+The Dashboard is designed to support the strategic decision-making process
+for assembling a new European football team within a €150 million budget.
+This comprehensive dashboard offers insights into player performance,
+budget allocation, and squad composition, while also factoring in player
+popularity and contract details.
+
+Search Bar for Player Names and Club names:
+A search bar allows users to quickly find and filter players by name and
+clubs. This interactive feature enables efficient data exploration and
+ensures that specific player and specific club details can be accessed
+swiftly without scrolling through extensive lists.
+
+Purpose:
+This dashboard provides a holistic view of potential team members,
+integrating performance metrics, financial implications, and future
+planning considerations. It supports strategic decisions regarding player
+selection, budget management, and squad composition, ensuring that both
+immediate and long-term goals are met effectively. The inclusion of a
+search feature enhances usability, allowing for precise and efficient data
+retrieval.
