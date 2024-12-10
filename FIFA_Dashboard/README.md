@@ -1,11 +1,42 @@
-Overview
 
-The FIFA Dashboard is designed to provide insightful and actionable information about players' data. Its primary objective is to offer stakeholders a user-friendly and visually compelling interface to analyze player performance, demographics, and other key metrics. This dashboard has been peer-reviewed to ensure usability, accessibility, and effectiveness.
+# FIFA Dashboard
 
-Objective
+## Overview
+The **FIFA Dashboard** is a dynamic and interactive tool designed to provide insights into players' performance and other key metrics from FIFA datasets. The dashboard aims to empower stakeholders such as coaches, managers, and analysts with actionable data to make informed decisions.
 
-The purpose of this dashboard is to:
+This project also focuses on peer review to ensure usability, functionality, and adoption by the intended audience. By gathering feedback, we aim to refine the dashboard into a user-friendly and impactful analytical tool.
 
-Test its design and usability with peers to ensure it meets its intended objectives.
-Gather valuable feedback to enhance the dashboard’s functionality and adoption by end-users.
-Serve as a tool for stakeholders to make data-driven decisions about players.
+---
+
+## Objectives
+- Design a visually appealing, accessible, and easy-to-navigate dashboard using FIFA player data.
+- Provide stakeholders with key insights to enhance decision-making related to player performance, demographics, and trends.
+- Conduct peer testing to identify areas of improvement in design, usability, and relevance.
+- Incorporate peer feedback to deliver a polished and professional dashboard.
+
+---
+
+## Stakeholders and Audience
+### Primary Stakeholders
+1. **Football Coaches and Analysts**:
+   - Use Case: Analyze player metrics to develop strategies and improve team performance.
+2. **Team Managers**:
+   - Use Case: Identify recruitment opportunities and assess player value.
+3. **Data Analysts**:
+   - Use Case: Utilize the dashboard for in-depth data exploration and reporting.
+4. **Sports Enthusiasts**:
+   - Use Case: Explore comprehensive player statistics for personal interest.
+
+---
+
+## 🛠️ Tools and Technologies
+- **Tableau**: For building interactive and visually engaging dashboards.
+- **Dataset**: FIFA player statistics, including demographics, performance metrics, and trends.
+
+---
+
+## 🔍 Key Features
+- **Performance Analysis**: Visualise individual and team-level player performance.
+- **Demographics Insights**: Explore player age, nationality, and other characteristics.
+- **Custom Interactivity**: Filters and slicers for customised data exploration.
+- **Usability Optimization**: Designed for diverse stakeholders with varying levels of technical expertise.
