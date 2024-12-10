@@ -15,7 +15,7 @@ This project analyses healthcare data to identify patterns in appointment durati
 
 ## Files
 - **Data**:
-  - `Assignment_Dataset_Course_2.zip`: Dataset provided for the assignment.
+  - `Assignment_Dataset_Course_2`: Dataset provided for the assignment.
   - `actual_duration.csv`: Contains data on actual appointment durations.
   - `appointments_regional.csv`: Regional appointment data.
   - `national_categories.csv`: Categorisation data for analysis.
