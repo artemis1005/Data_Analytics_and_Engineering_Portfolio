@@ -29,13 +29,13 @@ This project also focuses on peer review to ensure usability, functionality, and
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 - **Tableau**: For building interactive and visually engaging dashboards.
 - **Dataset**: FIFA player statistics, including demographics, performance metrics, and trends.
 
 ---
 
-## 🔍 Key Features
+## Key Features
 - **Performance Analysis**: Visualise individual and team-level player performance.
 - **Demographics Insights**: Explore player age, nationality, and other characteristics.
 - **Custom Interactivity**: Filters and slicers for customised data exploration.
