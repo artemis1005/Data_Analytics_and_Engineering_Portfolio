@@ -7,10 +7,6 @@ This repository showcases assignments and projects completed during the LSE Data
 - Data visualisation with Tableau and Python
 - Data storytelling and business communication
 
-## Table of Contents
-- [Course 1: Market Analysis](./Course_1_Market_Analysis/README.md)
-- [Course 2: Healthcare Analysis](./Course_2_Healthcare_Analysis/README.md)
-
 ## About Me
 I am a data professional with expertise in SQL, Python, and Tableau, passionate about delivering actionable insights through innovative solutions.
 
