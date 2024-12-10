@@ -1,5 +1,5 @@
 
-# PEP 8 - Python Code Style Guide
+# PEP 8 - Python Code
 
 ## Overview
 This project focuses on adhering to the **PEP 8** Python code style guide. Following PEP 8 ensures that Python code is readable, maintainable, and consistent, making it easier for teams to collaborate effectively.
