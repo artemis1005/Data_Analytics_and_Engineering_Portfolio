@@ -4,7 +4,7 @@
 ## Overview
 The **FIFA Dashboard** is a dynamic and interactive tool designed to provide insights into players' performance and other key metrics from FIFA datasets. The dashboard aims to empower stakeholders such as coaches, managers, and analysts with actionable data to make informed decisions.
 
-This project also focuses on peer review to ensure usability, functionality, and adoption by the intended audience. By gathering feedback, we aim to refine the dashboard into a user-friendly and impactful analytical tool.
+This project also focuses on peer review to ensure usability, functionality, and adoption by the intended audience.
 
 ---
 
@@ -19,11 +19,11 @@ This project also focuses on peer review to ensure usability, functionality, and
 ## Stakeholders and Audience
 ### Primary Stakeholders
 1. **Football Coaches and Analysts**:
-   - Use Case: Analyze player metrics to develop strategies and improve team performance.
+   - Use Case: Analyse player metrics to develop strategies and improve team performance.
 2. **Team Managers**:
    - Use Case: Identify recruitment opportunities and assess player value.
 3. **Data Analysts**:
-   - Use Case: Utilize the dashboard for in-depth data exploration and reporting.
+   - Use Case: Utilise the dashboard for in-depth data exploration and reporting.
 4. **Sports Enthusiasts**:
    - Use Case: Explore comprehensive player statistics for personal interest.
 
@@ -39,4 +39,4 @@ This project also focuses on peer review to ensure usability, functionality, and
 - **Performance Analysis**: Visualise individual and team-level player performance.
 - **Demographics Insights**: Explore player age, nationality, and other characteristics.
 - **Custom Interactivity**: Filters and slicers for customised data exploration.
-- **Usability Optimization**: Designed for diverse stakeholders with varying levels of technical expertise.
+- **Usability Optimisation**: Designed for diverse stakeholders with varying levels of technical expertise.
