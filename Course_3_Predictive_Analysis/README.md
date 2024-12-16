@@ -1,41 +1,41 @@
 # **Turtle Games Data Analysis Project**
 
 ### **Overview**
-This project analyzes customer data for Turtle Games, a global retailer of books, board games, toys, and video games. The focus is on identifying key drivers of customer loyalty, segmenting customers, and improving the loyalty program using data-driven insights.
+This project analyses customer data for Turtle Games, a global retailer of books, board games, toys, and video games. The focus is on identifying key drivers of customer loyalty, segmenting customers, and improving the loyalty program using data-driven insights.
 
 ---
 
 ## **Objectives**
-1. Analyze **Loyalty Points** to understand accumulation behavior.
+1. Analyse **Loyalty Points** to understand accumulation behavior.
 2. Perform **Customer Segmentation** using K-Means clustering.
 3. Conduct **Sentiment Analysis** of product reviews to assess customer satisfaction.
 4. Develop a **Multiple Linear Regression** model to predict Loyalty Points and evaluate its reliability.
-5. Provide actionable **recommendations** to optimize the loyalty program.
+5. Provide actionable **recommendations** to optimise the loyalty program.
 
 ---
 
 ## **Tools and Libraries**
 ### **Python**
 - **Data Wrangling**: `pandas`, `numpy`
-- **Visualization**: `matplotlib`, `seaborn`
+- **Visualisation**: `matplotlib`, `seaborn`
 - **Machine Learning**: `sklearn` (K-Means, Linear Regression)
 - **Sentiment Analysis**: `TextBlob`
 
 ### **R**
-- **Data Exploration and Visualization**: `ggplot2`, `dplyr`
+- **Data Exploration and Visualisation**: `ggplot2`, `dplyr`
 - **Statistical Modeling**: `lm` (Linear Regression)
 
 ---
 
 ## **Project Workflow**
 1. **Data Import and Cleaning**
-   - Standardized column names.
+   - Standardised column names.
    - Imputed missing values.
    - Removed irrelevant features.
 
 2. **Exploratory Data Analysis (EDA)**
    - Summary statistics to identify patterns and outliers.
-   - Visualizations (scatterplots, histograms, and boxplots).
+   - Visualisations (scatterplots, histograms, and boxplots).
 
 3. **Customer Segmentation**
    - Applied **K-Means clustering** to group customers into three segments:
