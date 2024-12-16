@@ -1,12 +1,12 @@
 # **Turtle Games Data Analysis Project**
 
 ### **Overview**
-This project analyzes customer data for Turtle Games, a global retailer of books, board games, toys, and video games. The focus is on identifying key drivers of customer loyalty, segmenting customers, and improving the loyalty program using data-driven insights.
+This project analyses customer data for Turtle Games, a global retailer of books, board games, toys, and video games. The focus is on identifying key drivers of customer loyalty, segmenting customers, and improving the loyalty program using data-driven insights.
 
 ---
 
 ## **Objectives**
-1. Analyze **Loyalty Points** to understand accumulation behavior.
+1. Analyse **Loyalty Points** to understand accumulation behavior.
 2. Perform **Customer Segmentation** using K-Means clustering.
 3. Conduct **Sentiment Analysis** of product reviews to assess customer satisfaction.
 4. Develop a **Multiple Linear Regression** model to predict Loyalty Points and evaluate its reliability.
@@ -29,7 +29,7 @@ This project analyzes customer data for Turtle Games, a global retailer of books
 
 ## **Project Workflow**
 1. **Data Import and Cleaning**
-   - Standardized column names.
+   - Standardised column names.
    - Imputed missing values.
    - Removed irrelevant features.
 
