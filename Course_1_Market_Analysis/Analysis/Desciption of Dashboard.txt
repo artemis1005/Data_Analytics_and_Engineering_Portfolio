@@ -1,4 +1,6 @@
-This dashboard is designed to provide 2Market's business stakeholders with clear, interactive insights on key metrics, focusing on accessibility and clarity. It features three main visual elements:
+This dashboard is designed to provide 2Market's business stakeholders with clear, interactive insights on key metrics, focusing on accessibility and clarity. 
+
+It features three main visual elements:
 
 Demographic Overview: A vertical bar chart compares average income across different education levels, helping stakeholders identify high-purchasing-power segments.
 
