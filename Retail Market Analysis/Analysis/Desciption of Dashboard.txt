@@ -1,0 +1,9 @@
+This dashboard is designed to provide 2Market's business stakeholders with clear, interactive insights on key metrics, focusing on accessibility and clarity. It features three main visual elements:
+
+Demographic Overview: A vertical bar chart compares average income across different education levels, helping stakeholders identify high-purchasing-power segments.
+
+Customer Spend Across Product Categories: An area chart visualizes customer spending trends over time, highlighting key patterns and growth opportunities.
+
+Advertising Channel Effectiveness: A bar chart evaluates the success of various advertising channels, aiding in optimizing ad spending.
+
+A universal "Country" filter enables region-specific analysis, and the design prioritizes intuitive layout, color differentiation, and real-time interactivity for effective decision-making.
